@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Aug 12 16:02:11 BRT 2021:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instância a816c00e-017b-3bbe-464e-00000ee9d6a0
+no diretório de banco de dados C:\Users\cajad\Documents\java\Estoqueapp\estoque 
+
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.2+7-27
+user.dir=C:\Users\cajad\Documents\java\Estoqueapp
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
